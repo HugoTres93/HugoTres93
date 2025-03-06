@@ -24,7 +24,7 @@ I'm Torres Hugo, a passionate programmer 💻 currently pursuing a BAC+5 M1 Lead
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23428F7E.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
